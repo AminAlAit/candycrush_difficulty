@@ -15,5 +15,3 @@ In this notebook, I will be using the following packages:
 3. ggplot2
 
 ![](/images/candycrush.png)
-
-________________________
